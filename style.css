@@ -22,7 +22,7 @@ font-weight: bold;
 }
 .copy_right_footer{
     position: fixed;
-    color:#e8d5d9;
+    color:gray;
     botton: 0;
     width: 100%;
     font-size: 18px;
