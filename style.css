@@ -23,11 +23,11 @@ font-weight: bold;
 .copy_right_footer{
     position: fixed;
     color:gray;
-    botton: 0;
+    bottom: 0;
     width: 100%;
     font-size: 18px;
     background-color:#e7e8ca;
     line-height: 3;
-    text-aling: center;
+    text-align: center;
     text-shadow: 5px 5px 5px rgb(151, 149, 149)
 }
